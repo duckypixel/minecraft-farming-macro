@@ -22,10 +22,10 @@ async def eating():
         pyautogui.press("1") # * binding for your sword, you can change this to whatever bind you use for your food 
 
 async def main():
-    hitting = asyncio.create_task(hitting())
-    eating = asyncio.create_task(eating())
+    hit = asyncio.create_task(hitting())
+    eat = asyncio.create_task(eating()) 
 
-    await hitting
-    await eating
+    await hit
+    await eat
 
-asyncio.run(main())
+asyncio.run(main()) 
