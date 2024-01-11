@@ -1,5 +1,5 @@
 # Minecraft Farming Macro
-###### simple macro i made to automate mob farms, and also to play around with asyncio without discord.py
+###### simple macro i made to automate mob farms, experiment with a public github repo, and also to play around with asyncio without discord.py
 
 # Usage
 1. Make sure that you have Python 3.9+ and [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) installed.
