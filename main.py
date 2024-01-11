@@ -1,6 +1,5 @@
 import asyncio
 import pyautogui
-import time
 
 async def hitting():
     while True:
